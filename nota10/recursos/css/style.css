@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header nav img{
+	position: center;
+	padding: 12px;
+	width
+	margin: 1px solid black;
+	
+}
+section{
+	position: relative;
+	padding: 10px;
+}
+#acess{
+	
+	position:absolute;
+	top: 200px;
+}
